@@ -1,0 +1,130 @@
+[
+    {
+        "timestamp": 1.45,
+        "label": "position1"
+    },
+    {
+        "timestamp": 2.7,
+        "label": "position2"
+    },
+    {
+        "timestamp": 4.0,
+        "label": "position3"
+    },
+    {
+        "timestamp": 5.0,
+        "label": "position4"
+    },
+    {
+        "timestamp": 6.0,
+        "label": "position1"
+    },
+    {
+        "timestamp": 7.3,
+        "label": "position2"
+    },
+    {
+        "timestamp": 8.9,
+        "label": "position3"
+    },
+    {
+        "timestamp": 9.6,
+        "label": "position4"
+    },
+    {
+        "timestamp": 10.72,
+        "label": "position5"
+    },
+    {
+        "timestamp": 11.8,
+        "label": "position6"
+    },
+    {
+        "timestamp": 12.6,
+        "label": "position7"
+    },
+    {
+        "timestamp": 13.7,
+        "label": "position6"
+    },
+    {
+        "timestamp": 15.0,
+        "label": "position8"
+    },
+    {
+        "timestamp": 18.0,
+        "label": "position9"
+    },
+    {
+        "timestamp": 19.0,
+        "label": "position10"
+    },
+    {
+        "timestamp": 20.05,
+        "label": "position11"
+    },
+    {
+        "timestamp": 21.03,
+        "label": "position10"
+    },
+    {
+        "timestamp": 21.6,
+        "label": "position11"
+    },
+    {
+        "timestamp": 22.1,
+        "label": "position10"
+    },
+    {
+        "timestamp": 22.6,
+        "label": "position11"
+    },
+    {
+        "timestamp": 23.15,
+        "label": "position10"
+    },
+    {
+        "timestamp": 24.24,
+        "label": "position11"
+    },
+    {
+        "timestamp": 25.25,
+        "label": "position10"
+    },
+    {
+        "timestamp": 25.8,
+        "label": "position11"
+    },
+    {
+        "timestamp": 26.3,
+        "label": "position10"
+    },
+    {
+        "timestamp": 26.89,
+        "label": "position11"
+    },
+    {
+        "timestamp": 27.45,
+        "label": "position12"
+    },
+    {
+        "timestamp": 28.45,
+        "label": "position13"
+    },
+    {
+        "timestamp": 29.54,
+        "label": "position12"
+    },
+    {
+        "timestamp": 30.6,
+        "label": "position11"
+    },
+    {
+        "timestamp": 31.79,
+        "label": "position14"
+    },
+    {
+        "timestamp": 36.06,
+        "label": "position15"
+    }
+]
